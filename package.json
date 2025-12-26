@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/danurbanowicz/eleventy-sveltia-cms-starter"
+    "url": "https://github.com/olegfedak/eleventy-sveltia-cms-starter-08e07"
   },
   "author": {
     "name": "Dan Urbanowicz",
@@ -19,9 +19,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/danurbanowicz/eleventy-sveltia-cms-starter/issues"
+    "url": "https://github.com/olegfedak/eleventy-sveltia-cms-starter-08e07/issues"
   },
-  "homepage": "https://github.com/danurbanowicz/eleventy-sveltia-cms-starter",
+  "homepage": "https://github.com/olegfedak/eleventy-sveltia-cms-starter-08e07",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
     "@11ty/eleventy-img": "^4.0.2",
